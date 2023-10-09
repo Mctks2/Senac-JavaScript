@@ -1,0 +1,29 @@
+body {
+  background-color: white; /* Define o fundo da página como branco */
+
+  margin: 0;
+
+  padding: 0;
+
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center; /* Centraliza o título */
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.205); /* Adiciona uma sombra ao título */
+
+  margin-top: 20px; /* Espaço superior para o título */
+}
+
+#DadosProduto {
+  width: 300px; /* Define a largura da div */
+
+  margin: 0 auto; /* Centraliza a div horizontalmente */
+
+  padding: 20px; /* Espaço interno da div */
+
+  border: 1px solid #ddd; /* Adiciona uma borda à div */
+
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra à div */
+}
